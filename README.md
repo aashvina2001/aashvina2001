@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashvina</h1>
-<h3 align="center">I’m currently pursuing a third-year B.Tech in Information Technology at velammal college of engineering and technology👩‍🎓. I’m a passionate learner who's always willing to learn and work across technologies and domains.</h3>
+<h3 align="center">I’m currently pursuing a final-year B.Tech in Information Technology at velammal college of engineering and technology👩‍🎓. I’m a passionate learner who's always willing to learn and work across technologies and domains.</h3>
 
 - 🔭 I’m currently working on **Python programming & Web development projects**
 
